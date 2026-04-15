@@ -1,3 +1,16 @@
 body {
   background-color: #050312;
+  margin: 0 auto;
 }
+
+.container {
+  width: 400px;
+  padding: 0 20px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
